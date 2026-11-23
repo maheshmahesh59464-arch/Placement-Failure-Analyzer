@@ -1,0 +1,3 @@
+# Optional OCR for image-based/scanned PDFs; system packages Poppler and Tesseract are also required.
+pdf2image>=1.17,<2.0
+pytesseract>=0.3.10,<1.0

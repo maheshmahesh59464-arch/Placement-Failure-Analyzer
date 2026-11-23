@@ -1,0 +1,2 @@
+# Optional local embedding model. The core app falls back to transparent token overlap.
+sentence-transformers>=3.0,<6.0
